@@ -1,1 +1,2 @@
 Linear Algebra
+Course Details: https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
